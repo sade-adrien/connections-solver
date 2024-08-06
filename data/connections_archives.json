@@ -1,0 +1,389 @@
+[
+    [
+        {
+            "idx": 1
+        },
+        [
+            {
+                "description": "WET WEATHER",
+                "words": [
+                    "HAIL",
+                    "RAIN",
+                    "SLEET",
+                    "SNOW"
+                ]
+            },
+            {
+                "description": "NBA TEAMS",
+                "words": [
+                    "BUCKS",
+                    "HEAT",
+                    "JAZZ",
+                    "NETS"
+                ]
+            },
+            {
+                "description": "KEYBOARD KEYS",
+                "words": [
+                    "OPTION",
+                    "RETURN",
+                    "SHIFT",
+                    "TAB"
+                ]
+            },
+            {
+                "description": "PALINDROMES",
+                "words": [
+                    "KAYAK",
+                    "LEVEL",
+                    "MOM",
+                    "RACE CAR"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 2
+        },
+        [
+            {
+                "description": "FOOTWEAR",
+                "words": [
+                    "BOOT",
+                    "LOAFER",
+                    "PUMP",
+                    "SNEAKER"
+                ]
+            },
+            {
+                "description": "UNITS OF LENGTH",
+                "words": [
+                    "FOOT",
+                    "LEAGUE",
+                    "MILE",
+                    "YARD"
+                ]
+            },
+            {
+                "description": "MAGAZINES",
+                "words": [
+                    "ESSENCE",
+                    "PEOPLE",
+                    "TIME",
+                    "US"
+                ]
+            },
+            {
+                "description": "LETTER HOMOPHONES",
+                "words": [
+                    "ARE",
+                    "QUEUE",
+                    "SEA",
+                    "WHY"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 3
+        },
+        [
+            {
+                "description": "FACIAL FEATURES",
+                "words": [
+                    "CHEEK",
+                    "EYE",
+                    "MOUTH",
+                    "NOSE"
+                ]
+            },
+            {
+                "description": "SYNONYMS FOR EAT",
+                "words": [
+                    "CHOW",
+                    "GOBBLE",
+                    "SCARF",
+                    "WOLF"
+                ]
+            },
+            {
+                "description": "DOG BREEDS, INFORMALLY",
+                "words": [
+                    "LAB",
+                    "PEKE",
+                    "PIT",
+                    "POM"
+                ]
+            },
+            {
+                "description": "MEMBERS OF A TRIO",
+                "words": [
+                    "AMIGO",
+                    "KING",
+                    "STOOGE",
+                    "TENOR"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 4
+        },
+        [
+            {
+                "description": "SNEAKER BRANDS",
+                "words": [
+                    "ADIDAS",
+                    "NIKE",
+                    "PUMA",
+                    "REEBOK"
+                ]
+            },
+            {
+                "description": "MUSICALS BEGINNING WITH \u201cC\u201d",
+                "words": [
+                    "CABARET",
+                    "CAROUSEL",
+                    "CATS",
+                    "CHICAGO"
+                ]
+            },
+            {
+                "description": "CLEANING VERBS",
+                "words": [
+                    "DUST",
+                    "MOP",
+                    "SWEEP",
+                    "VACUUM"
+                ]
+            },
+            {
+                "description": "___ MAN SUPERHEROES",
+                "words": [
+                    "BAT",
+                    "IRON",
+                    "SPIDER",
+                    "SUPER"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 5
+        },
+        [
+            {
+                "description": "STREAMING SERVICES",
+                "words": [
+                    "HULU",
+                    "NETFLIX",
+                    "PEACOCK",
+                    "PRIME"
+                ]
+            },
+            {
+                "description": "CONDIMENTS",
+                "words": [
+                    "KETCHUP",
+                    "MAYO",
+                    "RELISH",
+                    "TARTAR"
+                ]
+            },
+            {
+                "description": "SYNONYMS FOR SAD",
+                "words": [
+                    "BLUE",
+                    "DOWN",
+                    "GLUM",
+                    "LOW"
+                ]
+            },
+            {
+                "description": "CLUE CHARACTERS",
+                "words": [
+                    "GREEN",
+                    "MUSTARD",
+                    "PLUM",
+                    "SCARLET"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 6
+        },
+        [
+            {
+                "description": "MONOPOLY SQUARES",
+                "words": [
+                    "BOARDWALK",
+                    "CHANCE",
+                    "GO",
+                    "JAIL"
+                ]
+            },
+            {
+                "description": "SHADES OF BLUE",
+                "words": [
+                    "BABY",
+                    "MIDNIGHT",
+                    "POWDER",
+                    "ROYAL"
+                ]
+            },
+            {
+                "description": "RAPPERS",
+                "words": [
+                    "COMMON",
+                    "FUTURE",
+                    "ICE CUBE",
+                    "Q-TIP"
+                ]
+            },
+            {
+                "description": "MEMBERS OF A SEPTET",
+                "words": [
+                    "SEA",
+                    "SIN",
+                    "SISTER",
+                    "WONDER"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 7
+        },
+        [
+            {
+                "description": "LEG PARTS",
+                "words": [
+                    "ANKLE",
+                    "KNEE",
+                    "SHIN",
+                    "THIGH"
+                ]
+            },
+            {
+                "description": "BABY ANIMALS",
+                "words": [
+                    "CALF",
+                    "CUB",
+                    "JOEY",
+                    "KID"
+                ]
+            },
+            {
+                "description": "SLANG FOR TOILET",
+                "words": [
+                    "CAN",
+                    "HEAD",
+                    "JOHN",
+                    "THRONE"
+                ]
+            },
+            {
+                "description": "___ FISH THAT AREN\u2019T FISH",
+                "words": [
+                    "CRAY",
+                    "JELLY",
+                    "SILVER",
+                    "STAR"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 8
+        },
+        [
+            {
+                "description": "BOARD GAMES",
+                "words": [
+                    "BACKGAMMON",
+                    "CHECKERS",
+                    "CHESS",
+                    "GO"
+                ]
+            },
+            {
+                "description": "MATTRESS SIZES",
+                "words": [
+                    "FULL",
+                    "KING",
+                    "QUEEN",
+                    "TWIN"
+                ]
+            },
+            {
+                "description": "THINGS THAT ARE RED",
+                "words": [
+                    "CHERRY",
+                    "FIRE TRUCK",
+                    "RUBY",
+                    "STOP SIGN"
+                ]
+            },
+            {
+                "description": "THINGS WITH KEYS",
+                "words": [
+                    "CRYPTOGRAPHY",
+                    "FLORIDA",
+                    "LOCKSMITH",
+                    "PIANO"
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "idx": 9
+        },
+        [
+            {
+                "description": "SPORTS",
+                "words": [
+                    "CRICKET",
+                    "FENCING",
+                    "POLO",
+                    "SQUASH"
+                ]
+            },
+            {
+                "description": "TOPS",
+                "words": [
+                    "CAMI",
+                    "HALTER",
+                    "TANK",
+                    "TEE"
+                ]
+            },
+            {
+                "description": "VEGETABLES",
+                "words": [
+                    "BEET",
+                    "CARROT",
+                    "CORN",
+                    "ONION"
+                ]
+            },
+            {
+                "description": "INSECTS",
+                "words": [
+                    "ANT",
+                    "BEETLE",
+                    "MANTIS",
+                    "TERMITE"
+                ]
+            }
+        ]
+    ]
+]
