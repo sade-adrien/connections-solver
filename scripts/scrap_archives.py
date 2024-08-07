@@ -1,5 +1,6 @@
 """
 This script scrapes the 400+ existing official connections games (from June 23 to August 24) from https://connections.swellgarfo.com/archive .
+These will be our golden samples.
 """ 
 
 from bs4 import BeautifulSoup
@@ -10,7 +11,7 @@ base_url = 'https://connections.swellgarfo.com/nyt/'
 output_file = 'data/connections_archives.json'
 
 sample = []
-for i in range(1, 10):#446
+for i in range(1,446):
     response = requests.get(base_url + str(i))
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -19,14 +20,16 @@ for i in range(1, 10):#446
 
     data = json_data['props']['pageProps']['answers']
 
-    output = []
+    output = {'idx': i, 'source': base_url, 'data': []}
     for item in data:
-        output.append({
-            'description': item['description'],
-            'words': item['words']
-        })
+        output['data'].append(
+            {
+                'description': item['description'],
+                'words': item['words'],
+            }
+        )
 
-    sample.append([{'idx': i}, output])
+    sample.append(output)
 
 
 with open(output_file, 'w') as file:
