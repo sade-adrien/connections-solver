@@ -1,6 +1,6 @@
 """
 This script scrapes the 400+ existing official connections games (from June 23 to August 24) from https://connections.swellgarfo.com/archive .
-These will be our golden samples as the.
+These will be our golden samples as they are directly taken from the official game.
 """ 
 
 from bs4 import BeautifulSoup
@@ -8,7 +8,7 @@ import requests
 import json
 
 base_url = 'https://connections.swellgarfo.com/nyt/'
-output_file = 'data/connections_archives.json'
+output_file = 'data/connections_golden.json'
 
 sample = []
 for i in range(1,446):
