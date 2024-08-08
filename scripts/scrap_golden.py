@@ -10,7 +10,7 @@ import json
 base_url = 'https://connections.swellgarfo.com/nyt/'
 output_file = 'data/connections_golden.json'
 
-sample = []
+samples = []
 for i in range(1,446):
     response = requests.get(base_url + str(i))
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -29,8 +29,8 @@ for i in range(1,446):
             }
         )
 
-    sample.append(output)
+    samples.append(output)
 
 
 with open(output_file, 'w') as file:
-    json.dump(sample, file, indent=4)
+    json.dump(samples, file, indent=4)
